@@ -1,6 +1,6 @@
 # integracar-web
 
-Site institucional do projeto IntegraCAR — Integração do Cadastro Ambiental
+Site institucional do projeto IntegraCAR, Integração do Cadastro Ambiental
 Rural no Estado do Espírito Santo.
 
 Endereço previsto: [integracar.agr.br](https://integracar.agr.br)
@@ -46,8 +46,22 @@ integracar-web/
 
 ---
 
+## Equipe Desenvolvedora
+
+- Arthur Gonçalves
+- Beatriz Ruela
+- Cauã Marvila
+- Eduardo Esquincalha
+- Gabriela Marques
+- Lucas Altoé
+- Mikaela Cantalejo
+- Murilo Cruz
+- Pedro Almeida
+
+---
+
 ## Projeto
 
-Coordenação: IFES Campus Cachoeiro de Itapemirim
-Vigência: 2024 – 2027
+Parceria: Idaf, Ifes e Seger
+Vigência: 2024-2027
 Organização: [integraCAR](https://github.com/integraCAR)
